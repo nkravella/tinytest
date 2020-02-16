@@ -17,5 +17,6 @@ $ npm install @nkravella/tinytest
 const tinytest = require("@nkravella/tinytest");
 
 tinytest("Why are        we  typing like      this?");
+
 // OUTPUT=> "Whyarewetypinglikethis?"
 ```
