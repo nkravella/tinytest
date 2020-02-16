@@ -1,9 +1,9 @@
-# @nkravella/tinytest
+# a very tiny and unnecessary npm package 🐣👶🏽
 
 [![npm (scoped)](https://img.shields.io/npm/v/@nkravella/tinytest.svg)](https://www.npmjs.com/package/@nkravella/tinytest)
 [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@nkravella/tinytest)
 
-Removes all spaces from a string.
+Removes all spaces from a string. Learned from @bamblehorse's "tiny" demonstration.
 
 ## Install
 
