@@ -1,5 +1,16 @@
 {
   "name": "@nkravella/tinytest",
   "version": "1.0.0",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "nkravella/tinytest",
+  "main": "index.js",
+  "keywords":
+  [
+    "tinytest",
+    "npm",
+    "package",
+    "nkravella"
+  ]
 }
